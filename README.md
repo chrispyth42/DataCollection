@@ -3,7 +3,7 @@ Contains scripts that collect/aggregate data from various places across the inte
 
 
 ### getNews.py
-Reads from multiple news outlets' RSS feeds, and places the news stories into a local SQLite database file. Created due to the absolute state of the news nowadays, with the election season coming up
+Reads from multiple news outlets' RSS feeds, and places the news stories into a local SQLite database file. Created due to the absolute state of the news nowadays, with the election season coming up. Reads from Data/newsSrc.csv for rss feed info
 
 
 ### TwtterArchiver.py
