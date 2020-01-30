@@ -2,8 +2,8 @@
 Contains scripts that collect/aggregate data from various places across the internet
 
 
-### newsAggregator.py
-Reads from multiple news outlets' RSS feeds, and places the news stories into a local SQLite database file. Created due to the absolute state of the news nowadays, with the election season coming up. Reads from Data/newsSrc.csv for rss feed info
+### newsAggregator.py (version 1)
+Reads from multiple news outlets' RSS feeds, and places the news stories into a local SQLite database file. Created due to the absolute state of the news nowadays, with the election season coming up. Reads from Data/newsSrc.csv for rss feed info. I was kind of learning as I went when writing this script, and have since made a better version now that I more know what I'm doing
 
 
 ### twtterArchiver.py
